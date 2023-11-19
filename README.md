@@ -1,7 +1,7 @@
 ### OLá! Eu sou Matheus Luiz 🫡
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathheusluiz)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MatheusLuizSoares)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-luiz-soares-7386b5269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![MatheusLuizSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLuizSoares&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizSoares&layout=donut)](https://github.com/MatheusLuizSoares/github-readme-stats)
