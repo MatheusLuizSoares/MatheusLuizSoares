@@ -5,7 +5,7 @@
 
 ![MatheusLuizSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLuizSoares&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizSoares&layout=donut)](https://github.com/MatheusLuizSoares/github-readme-stats)
- <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLuizSoares&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
