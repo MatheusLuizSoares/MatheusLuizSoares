@@ -19,5 +19,5 @@
 
 
 </div><br/>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusLuizSoares&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
-Apasionado por tecnologia e inovação. Compartilhando código e ideias para construir um futuro digital empolgante. 💻✨
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusLuizSoares&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
+Apaixonado por tecnologia e inovação. Compartilhando código e ideias para construir um futuro digital empolgante. 💻✨
