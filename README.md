@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-luiz-soares-7386b5269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![MatheusLuizSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLuizSoares&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizSoares&layout=donut)](https://github.com/MatheusLuizSoares/github-readme-stats)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizSoares&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
+   <div align="center">
 
 ### Tecnologias que eu uso no meu dia
 
