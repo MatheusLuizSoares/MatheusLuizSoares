@@ -16,6 +16,8 @@
 <img align="center" alt= "TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black"/>
 <img align="center" alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
 
-</div><br/>
 
+
+</div><br/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusLuizSoares&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
 Apasionado por tecnologia e inovação. Compartilhando código e ideias para construir um futuro digital empolgante. 💻✨
