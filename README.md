@@ -6,8 +6,10 @@
 ![MatheusLuizSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLuizSoares&show_icons=true&theme=dracula)
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizSoares&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
    <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLuizSoares&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
+ </a>
 
-### Tecnologias que eu uso no meu dia
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
