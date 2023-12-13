@@ -1,5 +1,21 @@
 
- ### OLá! Eu sou Matheus Luiz 
+👋 Bem-vindo ao meu GitHub!
+
+Olá, eu sou Matheus Luiz, um entusiasta da programação apaixonado por transformar linhas de código em soluções incríveis. 🚀
+
+💻 Sobre mim:
+- 👨‍💻 Desenvolvedor de software
+- 🎓 Estudante de Analise Desenvolvimento de Sistema e Redes Compultadores
+- 🌐 Fascinado por tecnologia e inovação
+
+🛠️ Habilidades:
+- Linguagens: Pyhton
+- Frameworks: Django e Flask
+📚 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades. Este é o meu espaço para compartilhar projetos, colaborar com outros desenvolvedores e crescer juntos na jornada da programação.
+
+Happy coding! 🚀
+Matheus Luiz
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador MatheusLuizSoares ">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76A6DD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Matheus+Luiz+Soares+👋;Programador;)](https://git.io/typing-svg)
