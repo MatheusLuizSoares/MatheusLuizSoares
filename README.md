@@ -1,5 +1,5 @@
 
-👋 Bem-vindo ao meu GitHub!
+ Bem-vindo ao meu GitHub!
 
 Olá, eu sou Matheus Luiz, um entusiasta da programação apaixonado por transformar linhas de código em soluções incríveis. 🚀
 
@@ -23,7 +23,7 @@ Matheus Luiz
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathheusluiz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-luiz-soares-7386b5269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLuizSoares&theme=dracula&show_icons=true) <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizSoares&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages" width="375px">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizSoares&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
    <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLuizSoares&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
