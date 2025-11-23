@@ -1,48 +1,57 @@
 
- Bem-vindo ao meu GitHub!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+alt="ilustração de um computador" width="400px" align="right">
 
-Olá, eu sou Matheus Luiz, um entusiasta da programação apaixonado por transformar linhas de código em soluções incríveis. 🚀
+<p align="left"> 
+  Olá! Me chamo <strong>Matheus Luiz Soares</strong> 👋<br>
+  Sou um desenvolvedor focado em <strong>Backend, Infraestrutura e DevOps</strong>, sempre buscando criar sistemas organizados, seguros e escaláveis.<br>
+  Tenho facilidade em aprender novas tecnologias, gosto de resolver problemas reais e estou sempre em evolução dentro da área de tecnologia.
+</p>
 
-💻 Sobre mim:
-- 👨‍💻 Desenvolvedor de software
-- 🎓 Estudante de Analise Desenvolvimento de Sistema e Redes Compultadores
-- 🌐 Fascinado por tecnologia e inovação
+<p align="left">
+  <strong>Linguagens:</strong> Python, JavaScript
+</p>
 
-🛠️ Habilidades:
-- Linguagens: Pyhton
-- Frameworks: Django e Flask
-  
-📚 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades. Este é o meu espaço para compartilhar projetos, colaborar com outros desenvolvedores e crescer juntos na jornada da programação.
+<p align="left">
+  <strong>Ferramentas e Tecnologias:</strong> Django, Flask, Docker, Linux, Git, Grafana, Zabbix
+</p>
 
-Happy coding! 🚀
-Matheus Luiz
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador MatheusLuizSoares ">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76A6DD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Matheus+Luiz+Soares+👋;Programador;)](https://git.io/typing-svg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathheusluiz)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-luiz-soares-7386b5269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLuizSoares&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizSoares&layout=compact&langs_count=7&theme=dracula"/>
+<div align="left">
+    <a href="https://www.linkedin.com/in/matheus-luiz-soares-7386b5269" target="_blank"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://instagram.com/mathheusluiz" target="_blank"><img height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:matheusluiz15a@gmail.com" target="_blank"><img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://t.me/" target="_blank"><img height="30px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
+---
+
+### 🎓 Formação Acadêmica
+
+Minha trajetória acadêmica até o momento:
+
+<img align="left" height="60px" width="30px" alt="IFRN" src="https://i.imgur.com/B0Axc8l.png"/>
+
+**Instituto Federal do Rio Grande do Norte (IFRN)**  
+**Curso Técnico em Redes de Computadores** • (Atual)  
+<br/>
+
+<img align="left" height="60px" width="30px" alt="Estácio" src="https://i.imgur.com/ZawpC7H.png"/>
+
+**Universidade Estácio de Sá**  
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** • (Atual)  
+<br/>
+
+---
 
 
+**Projetos de Infraestrutura e DevOps**  
+Ambientes com Docker, microsserviços, Proxy Reverso, DNS (Bind9), Email (Postfix/Dovecot), Apache, Nginx, SSL e monitoramento.  
+Tecnologias: `Docker`, `Linux`, `Bind9`, `Apache`, `Nginx`, `Postfix`, `Dovecot`, `Grafana`, `Zabbix`  
+Resumo: Desenvolvimento completo de um Provedor ISP com isolamento por clientes utilizando containers.  
+<br/>
 
+---
 
-
-<div style="display: inline_block"><br/>
-<img align="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt= "css" src="https://img.shields.io/badge/CSS3-157286?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt= "javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt= "Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img align="center" alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt= "Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
-
-
-</div><br/>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusLuizSoares&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuição" />
-Apaixonado por tecnologia e inovação. Compartilhando código e ideias para construir um futuro digital empolgante. 💻✨
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusLuizSoares&theme=material-palenight&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição" />
+</div>
