@@ -37,9 +37,6 @@ Minha trajetória acadêmica até o momento:
 
 <img align="left" height="60px" width="30px" alt="Estácio" src="https://i.imgur.com/ZawpC7H.png"/>
 
-**Universidade Estácio de Sá**  
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** • (Atual)  
-<br/>
 
 ---
 
