@@ -35,7 +35,7 @@ Minha trajetória acadêmica até o momento:
 **Curso Técnico em Redes de Computadores** • (Atual)  
 <br/>
 
-<img align="left" height="60px" width="30px" alt="Estácio" src="https://i.imgur.com/ZawpC7H.png"/>
+
 
 
 ---
