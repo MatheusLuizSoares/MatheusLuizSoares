@@ -49,6 +49,5 @@ Resumo: Desenvolvimento completo de um Provedor ISP com isolamento por clientes 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusLuizSoares&theme=material-palenight&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição" />
+<div align="center">palenight&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição" />
 </div>
